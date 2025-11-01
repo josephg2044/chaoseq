@@ -31,7 +31,7 @@ cmake --build build
 | Exit | `Esc` |
 
 ## Screenshots and GIFS
-![screenshots/chen.png]
-![screenshots/halvorsen.png]
-![screenshots/lorenz.png]
-![screenshots/thomas.png]
+![](screenshots/chen.png)
+![](screenshots/halvorsen.png)
+![](screenshots/lorenz.png)
+![](screenshots/thomas.png)
