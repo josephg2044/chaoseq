@@ -2,7 +2,13 @@ This project uses [Glitter](https://github.com/Polytonic/Glitter) becuase I am t
 
 # chaoseq – Particle Chaotic ODE Visualizer
 
-This is a viewer for chaotic differential equations. It uses an RK4 integrator and a GPU particle renderer. There is an ImGui interface so you can tweak parameters in real time. This project only runs on linux systems with a GPU capable of running OpenGL 4.0.
+This is a viewer for chaotic differential equations. It uses an RK4 integrator and a GPU particle renderer. There is an ImGui interface so you can tweak parameters in real time.
+## Requirements
+- linux
+- GPU capable of running OpenGL 4.0 or higher
+- C++
+- cmake
+- OpenGL
 
 ## Features
 - **Preset Library:** Lorenz, Rössler, Thomas, Aizawa (Langford), Dadras, Chen, Lorenz '83, Halvorsen, Rabinovich-Fabrikant, Three-Scroll Unified, Sprott, and Four-Wing.
@@ -19,6 +25,8 @@ cmake -S . -B build
 cmake --build build
 ./build/chaoseq/chaoseq
 ```
+
+You may need to clone glfw, glm, and imgui from their respective repos.
 
 ### Controls
 
