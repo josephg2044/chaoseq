@@ -30,7 +30,7 @@ cmake --build build
 | Toggle ImGui | `I` |
 | Exit | `Esc` |
 
-## Screenshots and GIFS
+## Screenshots
 ![](screenshots/chen.png)
 ![](screenshots/halvorsen.png)
 ![](screenshots/lorenz.png)
