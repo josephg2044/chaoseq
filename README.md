@@ -1,4 +1,4 @@
-This project uses [Glitter] becuase I am too lazy to write boiletplate.
+This project uses [Glitter](https://github.com/Polytonic/Glitter) becuase I am too lazy to write boiletplate.
 
 # chaoseq – Particle Chaotic ODE Visualizer
 
@@ -31,3 +31,7 @@ cmake --build build
 | Exit | `Esc` |
 
 ## Screenshots and GIFS
+![screenshots/chen.png]
+![screenshots/halvorsen.png]
+![screenshots/lorenz.png]
+![screenshots/thomas.png]
