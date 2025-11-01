@@ -13,7 +13,7 @@ This is a viewer for chaotic differential equations. It uses an RK4 integrator a
 ## Usage
 
 ```bash
-git clone https://example.com/chaoseq.git
+git clone https://github.com/josephg2044/chaoseq.git
 cd chaoseq
 cmake -S . -B build
 cmake --build build
